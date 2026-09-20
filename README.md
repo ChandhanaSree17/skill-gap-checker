@@ -1,6 +1,6 @@
 # Skill Gap Checker
 
-A beginner-friendly Python project that compares a user's skills with the skills required for a job and identifies missing skills.
+A Python project that compares a user's skills with the skills required for a job and identifies missing skills.
 
 ## Features
 
