@@ -1,3 +1,4 @@
+print("Welcome to Skill Gap Checker!")
 job_skills = input("Enter required skills (comma separated): ")
 my_skills = input("Enter your skills (comma separated): ")
 
